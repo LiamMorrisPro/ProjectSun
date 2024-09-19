@@ -25,7 +25,11 @@ public class SpiritSaveData : MonoBehaviour, IDataPersistance
     public static List<Spirit> SpiritBox1 = new List<Spirit>();
     public static List<SpiritData> SpiritBox1Data = new List<SpiritData>();
 
+/////////////////////////////////////////
 
+//LoadData and SaveData are called whenever the game is loaded or saved
+
+/////////////////////////////////////////
 
     public void LoadData(GameData data)
     {
