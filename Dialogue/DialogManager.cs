@@ -7,10 +7,10 @@ using UnityEngine.Events;
 
 /////////////////////////////////////////////
 
-The Dialogue tree is received by a script attached to the player 
-that accesses the held dialogue tree of an NPC and sends it to the dialogue manager,
-thus triggering the dialogue gamestate stopping the players movement and camera's movement
-until the Dialogue managers coroutine resolves
+//The Dialogue tree is received by a script attached to the player 
+//that accesses the held dialogue tree of an NPC and sends it to the dialogue manager,
+//thus triggering the dialogue gamestate stopping the players movement and camera's movement
+//until the Dialogue managers coroutine resolves
 
 /////////////////////////////////////////////
 
