@@ -13,8 +13,6 @@ public class SpiritDataIndex : MonoBehaviour
         }
     }
 
-
-
     //stats
     public Dictionary <string, int> statDictionary = new Dictionary<string, int>
     {
@@ -57,11 +55,6 @@ public class SpiritDataIndex : MonoBehaviour
         {"PolpuffPrimary", SpiritType.flora},{"PolpuffSecondary", SpiritType.none},
         {"SalasearPrimary", SpiritType.fire},{"SalasearSecondary", SpiritType.none}
     };
-
-    //stores attack names, to be used later
-    
-
-
 
     //asset references
 
